@@ -1,8 +1,8 @@
 **Science Gear Discord Bot - Terms of Service**
 
-Effective Date: [Date]
+Effective Date: 31/7/2023
 
-Welcome to Science Gear Discord Bot! Before using our services, please read these Terms of Service ("Terms") carefully. By accessing or using Science Gear Discord Bot ("the Bot"), you agree to be bound by these Terms. If you do not agree to these Terms, please refrain from using the Bot.
+Welcome to Science Gear Discord Bot! Before using our services, please read these Terms of Service ("Terms") carefully. By accessing or using Science Gear Discord Bot Uptime Bot#2460, you agree to be bound by these Terms. If you do not agree to these Terms, please refrain from using the Bot.
 
 **1. Description of Service**
 Science Gear Discord Bot is a bot designed to monitor projects and provide project-related information on Discord servers. It may perform various actions based on predefined commands and configurations.
